@@ -6,7 +6,7 @@ function CalenderNews() {
         backgroundImage: `url(${carosoul_4})`,
         backgroundSize: 'cover', 
         backgroundRepeat: 'no-repeat', 
-        opacity: "0.7" 
+        opacity: "0.9" 
     }
     return (
         <div style={myStyle} id="calenderNews">

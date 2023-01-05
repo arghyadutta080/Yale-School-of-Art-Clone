@@ -1,6 +1,6 @@
 import React from 'react'
-import carosoul_1 from './Images/carosoul_1.jpeg'
-import carosoul_4 from './Images/carosoul_4.jpeg'
+import carosoul_1 from './Images/2.jpg'
+import carosoul_4 from './Images/4.jpg'
 import home_bg_1 from './Images/home_bg_1.jpeg'
 
 
@@ -17,7 +17,7 @@ function Home() {
                     <div className="carousel-item active">
                         <img src={carosoul_4} alt="" style={{opacity: "0.7"}} />
                         <div className="container">
-                            <div className="carousel-caption">
+                            <div className="carousel-caption p-5">
                                 <h1 style={{color: "#800000"}}>YALE SCHOOL OF ART</h1>
                                 <p style={{fontWeight: "bold", color : "#ff3300"}}>The Yale School of Art is a graduate school that confers MFAs in Graphic Design, Painting/Printmaking, Photography, and Sculpture; and offers undergraduate-level art courses to Yale College students. Our website exists as an ongoing collaborative experiment in digital publishing and information sharing. It functions as a wiki—all members of the School of Art community have the ability to add new, and edit most existing content.</p>
                                 <p><a className="btn btn-lg btn-warning" href="#">Learn more</a></p>
