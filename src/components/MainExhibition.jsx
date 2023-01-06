@@ -6,7 +6,9 @@ import Footer from './Footer'
 function MainExhibition() {
     return (
         <div style={{ backgroundImage: `url(${exh_bg_2})`, backgroundSize: 'cover', backgroundRepeat: 'no-repeat' }}>
+            
             <Navbar />
+            
             <h1 className='text-center m-4' style={{ color: "#660066", fontStyle: "oblique" }}>EXHIBITIONS</h1>
             <div className="row mb-2 d-flex align-items-center justify-content-center flex-wrap">
                 <div className="m-3 col-md-5">
@@ -78,7 +80,9 @@ function MainExhibition() {
                     </div>
                 </div>
             </div>
+            
             <Footer/>
+            
         </div>
     )
 }

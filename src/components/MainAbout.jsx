@@ -6,7 +6,7 @@ import Footer from './Footer'
 
 function MainAbout() {
     return (
-        <div style={{ backgroundImage: `url(${about_bg_1})`, backgroundSize: 'cover', backgroundRepeat: 'no-repeat', opacity: "0.9" }}>
+        <div style={{ backgroundImage: `url(${about_bg_1})`, backgroundSize: 'cover', backgroundRepeat: 'no-repeat', opacity: "0.9", height: "100%" }}>
             <Navbar />
             <div className='container d-flex flex-column align-items-center justify-content-center' >
                 <h1 className='p-4' style={{ fontStyle: "oblique", color: "#ffcc00" }}>ABOUT THE SCHOOL</h1>

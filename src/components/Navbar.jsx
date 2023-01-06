@@ -16,9 +16,9 @@ function Navbar() {
                             <li className="nav-item"><Link className="nav-link text-white" to="/about">About</Link></li>
                             <li className="nav-item"><Link className="nav-link text-white" to="/apply">Application</Link></li>
                             <li className="nav-item"><Link className="nav-link text-white" to="/exhibition">Exhibition</Link></li>
-                            <li className="nav-item"><Link className="nav-link text-white" to="#">Publlication</Link></li>
-                            <li className="nav-item"><Link className="nav-link text-white" to="#">News</Link></li>
-                            <li className="nav-item"><Link className="nav-link text-white" to="#">Events</Link></li>
+                            <li className="nav-item"><Link className="nav-link text-white" to="/publication">Publication</Link></li>
+                            <li className="nav-item"><Link className="nav-link text-white" to="/news">News</Link></li>
+                            <li className="nav-item"><Link className="nav-link text-white" to="/events">Events</Link></li>
                         </ul>
                     </div>
                 </div>

@@ -1,7 +1,7 @@
 import React from 'react'
-import carosoul_1 from './Images/2.jpg'
-import carosoul_4 from './Images/4.jpg'
-import home_bg_1 from './Images/home_bg_1.jpeg'
+import carosoul_1 from '../Images/2.jpg'
+import carosoul_4 from '../Images/4.jpg'
+// import home_bg_1 from './Images/home_bg_1.jpeg'
 
 
 function Home() {
