@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import MainHome from './components/Home/MainHome';
 import MainAbout from './components/MainAbout';
@@ -10,7 +9,6 @@ import Events from './components/Events';
 
 import {
   BrowserRouter as Router,
-  Switch,
   Routes,
   Route
 } from "react-router-dom"
