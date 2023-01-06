@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Yale-School-of-Art-Clone/static/css/main.63c7770a.css",
+    "main.js": "/Yale-School-of-Art-Clone/static/js/main.49f2e486.js",
+    "static/js/787.b504a0eb.chunk.js": "/Yale-School-of-Art-Clone/static/js/787.b504a0eb.chunk.js",
+    "static/media/applyPage_bg.webp": "/Yale-School-of-Art-Clone/static/media/applyPage_bg.0bffc1f49e2affaaaac5.webp",
+    "static/media/about_bg_1.jpeg": "/Yale-School-of-Art-Clone/static/media/about_bg_1.bb4276deff3e0fd53576.jpeg",
+    "static/media/carosoul_4.jpeg": "/Yale-School-of-Art-Clone/static/media/carosoul_4.a2b74822a926f364012f.jpeg",
+    "static/media/4.jpg": "/Yale-School-of-Art-Clone/static/media/4.ed5eab47e759eb9069bf.jpg",
+    "static/media/news_bg2.jpeg": "/Yale-School-of-Art-Clone/static/media/news_bg2.44f00602af0ccf453391.jpeg",
+    "static/media/news_bg.jpg": "/Yale-School-of-Art-Clone/static/media/news_bg.c3ade83bcb04b6d2c413.jpg",
+    "static/media/about_bg_2.jpeg": "/Yale-School-of-Art-Clone/static/media/about_bg_2.3efbe5891038db3b11d6.jpeg",
+    "static/media/home_bg_1.jpeg": "/Yale-School-of-Art-Clone/static/media/home_bg_1.a9954517a0dfb759acef.jpeg",
+    "static/media/exhibition_1.jpeg": "/Yale-School-of-Art-Clone/static/media/exhibition_1.a290800b5bd84363e4f0.jpeg",
+    "static/media/exhibition_2.jpeg": "/Yale-School-of-Art-Clone/static/media/exhibition_2.4755e43716c902a2e46a.jpeg",
+    "static/media/2.jpg": "/Yale-School-of-Art-Clone/static/media/2.1cc51efa4c8a3d8df0b4.jpg",
+    "static/media/carosoul_1.jpeg": "/Yale-School-of-Art-Clone/static/media/carosoul_1.41d37c676c9b9ee38351.jpeg",
+    "static/media/logo.svg": "/Yale-School-of-Art-Clone/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Yale-School-of-Art-Clone/index.html",
+    "main.63c7770a.css.map": "/Yale-School-of-Art-Clone/static/css/main.63c7770a.css.map",
+    "main.49f2e486.js.map": "/Yale-School-of-Art-Clone/static/js/main.49f2e486.js.map",
+    "787.b504a0eb.chunk.js.map": "/Yale-School-of-Art-Clone/static/js/787.b504a0eb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63c7770a.css",
+    "static/js/main.49f2e486.js"
+  ]
+}
