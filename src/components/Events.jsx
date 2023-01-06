@@ -6,17 +6,17 @@ import event_bg from './Images/news_bg2.jpeg'
 function Events() {
     return (
         <div>
-            <div style={{ backgroundImage: `url(${event_bg})`, backgroundSize: 'cover', backgroundRepeat: 'no-repeat' }}>
+            <div style={{ backgroundImage: `url(${event_bg})`, backgroundSize: 'cover', backgroundRepeat: 'no-repeat', opacity: '0.9' }}>
 
                 <Navbar />
 
-                <h1 className='text-center m-4' style={{ color: "#ffff00", fontStyle: "oblique" }}>PUBLIC EVENTS</h1>
+                <h2 className='text-center m-4' style={{ color: "#ffff00", fontStyle: "oblique" }}><b>PUBLIC EVENTS</b></h2>
 
                 <div className="row mb-2 d-flex align-items-center justify-content-center flex-wrap">
                     <div className="mt-4 mb-1 col-md-7">
-                        <div className="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative" style={{ backgroundColor: "#ffffcc" }}>
+                        <div className="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative" style={{ backgroundColor: "#ffffb3" }}>
                             <div className="col p-4 d-flex flex-column position-static">
-                <h3 className='text-center mb-3' style={{ color: "#660066", fontStyle: "oblique" }}>HOSTED BY THE YALE SCHOOL OF ART</h3>
+                <h4 className='text-center mb-3' style={{ color: "#660066", fontStyle: "oblique" }}>HOSTED BY THE YALE SCHOOL OF ART</h4>
                                 {/* <strong className="d-inline-block mb-2" style={{ color: "#ff8000" }}>SCREENED</strong> */}
                                 {/* <h3 className="mb-1" style={{ color: "#800000" }}>Fall 2022 Undergraduate Exhibition</h3> */}
                                 {/* <div className="mb-2 text-muted">November 28, 2022 – January 10, 2023</div> */}
@@ -29,7 +29,7 @@ function Events() {
 
                 <div className="row mb-2 d-flex align-items-center justify-content-center flex-wrap">
                     <div className="m-3 mb-4 col-md-4">
-                        <div className="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative" style={{ backgroundColor: "#ffffcc" }}>
+                        <div className="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative" style={{ backgroundColor: "#ffffb3" }}>
                             <div className="col p-4 d-flex flex-column position-static">
                                 {/* <strong className="d-inline-block mb-2" style={{ color: "#ff8000" }}>SCREENED VISITING</strong> */}
                                 <p className="card-text mb-2">For events open to the Yale community, view our Yale Calendar listings at <a href="https://calendar.yale.edu/cal/main/showEventList.rdo">here</a></p>

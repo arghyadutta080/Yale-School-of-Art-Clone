@@ -149,7 +149,7 @@ function NewsList() {
                     <div className="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
                         {
                             newsData.map((e) => {
-                                return <NewsListItem key={e.Date} info={e}/>
+                                return <NewsListItem key={e.Descriptione} info={e}/>
                             })
                         }
                     </div>
