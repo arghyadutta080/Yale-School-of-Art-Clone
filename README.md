@@ -1,11 +1,11 @@
 # Yale School of Art - Modified Clone Website
-#### Here is the [Original Website URL .](https://www.art.yale.edu/)
-#### Here is the [Modified Clone Website URL](https://yaleschoolclone.netlify.app/) made by us.
-#### Here is the [Demo Video .](https://drive.google.com/file/d/10VKcVGV1q_nqec_7cPMFYIQJfGJAFP8i/view?usp=drivesdk)
+#### Here is the [Original Website URL](https://www.art.yale.edu/) .
+#### Here is the [Modified Clone Website URL](https://yaleschoolclone.netlify.app/) made by us .
+#### Here is the [Demo Video](https://drive.google.com/file/d/10VKcVGV1q_nqec_7cPMFYIQJfGJAFP8i/view?usp=drivesdk) .
 
 ## Getting Started with Create React App ... 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) .
 
 ## Tools and Platform Used : 
 [![](https://skillicons.dev/icons?i=react)](https://reactjs.org/)
