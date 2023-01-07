@@ -9,7 +9,7 @@ function MainApplication() {
             <Navbar />
             <div className='container d-flex flex-column align-items-center justify-content-center' >
                 <h1 className='p-2 m-4 rounded-3' style={{ fontStyle: "oblique", color: "#33adff" }}>APPLY TO THE SCHOOL</h1>
-                <div className="p-3 mb-4 rounded-3 flex-wrap shadow-lg" style={{ backgroundColor: "#ffffcc" }}>
+                <div className="p-3 mb-4 rounded-3 flex-wrap shadow-lg" style={{ backgroundColor: "#ffff99" }}>
                     <div className="container-fluid py-3">
                         <h4 className="" style={{ color: "#003300" }}>The Yale School of Art is a graduate school that confers Master of Fine Arts Degrees in Graphic Design, Painting/Printmaking, Photography, and Sculpture</h4>
                         <p className="">For information on applications to the MFA program, please click the “Graduate Admission” link below.</p>
