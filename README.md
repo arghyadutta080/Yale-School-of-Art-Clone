@@ -1,5 +1,6 @@
 # Yale School of Art - Modified Clone Website
 #### Here is the [Original Website URL.](https://www.art.yale.edu/)
+#### Here is the [Modified Clone Website URL.](https://yaleschoolclone.netlify.app/)
 
 ## Getting Started with Create React App ... 
 
@@ -10,6 +11,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 [![](https://skillicons.dev/icons?i=js)](https://www.javascript.com/)
 [![](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com)
 [![](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
+
+## Hosted on :
+[![](https://skillicons.dev/icons?i=netlify)](https://www.netlify.com/)
 
 ## You can run this website inside your local environment:
 1. First clone the repository using the [following steps.](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
